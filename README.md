@@ -21,6 +21,8 @@ for escaping tight spots!
 - **Build your high score with lightbulbs:** Gather as many lightbulbs as possible to boost your high score and 
 prove your survival skills in space.
 - **Avoid the TVs!** Colliding with a TV will force the UFO to watch an ad, so stay sharp and steer clear.
+- **Avoid the Snail balls!** Colliding with a snail ball will slow the UFO down making it more difficult to avoid objects
+coming your way!
 - **Reset your high score anytime:** Want a fresh start? You can easily reset your high score whenever you like.
 
 ## Credits
